@@ -9,3 +9,9 @@ Con un poco de trasteo con los metadatos EXIF y la libreria piexif de python, he
 He intentado actualizar el campo de "Comentarios" para que incluyera alguna referencia al album o a "Origen: Tuenti", pero por algun motivo, lo carga, pero Windows no lo muestra.
 
 En cualquier caso, espero les sea de utilidad!
+
+URLs de utilidad y/o referencia: 
+Functions of piexif: http://piexif.readthedocs.io/en/latest/functions.html
+Standard of EXIF keys (EXTREMELY USEFUL): http://www.cipa.jp/std/documents/e/DC-008-2012_E.pdf
+Stack Overflow for a similar change: https://stackoverflow.com/questions/44636152/how-to-modify-exif-data-in-python
+Probablemente la manera de solventar el problema sobre los comentarios: https://piexif.readthedocs.io/en/latest/helper.html#usercomment
